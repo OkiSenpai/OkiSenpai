@@ -17,7 +17,7 @@
 
 ## My top movies
 
-- [my way](https://www.youtube.com/watch?v=alx6XKgTb54&ab_channel=TheCosmosurvivor)
+- [My way](https://www.youtube.com/watch?v=alx6XKgTb54&ab_channel=TheCosmosurvivor)
 
 - [My name is khan](https://www.youtube.com/watch?v=nqxgYT3TYzY&ab_channel=DharmaProductions)
 
@@ -30,6 +30,8 @@
 - [Forrest Gump](https://www.youtube.com/watch?v=uPIEn0M8su0&ab_channel=HolasPhilosophy)
 
 - [The Pianist](https://www.youtube.com/watch?v=BFwGqLa_oAo&ab_channel=MovieclipsClassicTrailers)
+
+- [Slumdog millionaire](https://www.youtube.com/watch?v=AIzbwV7on6Q&ab_channel=SearchlightPictures)
 
 
 ## Some of my surprising skills xD
