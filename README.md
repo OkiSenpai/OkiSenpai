@@ -8,12 +8,12 @@
 
 ## What i like the most :
 
-- Animals
-- Nature
-- Traveling
-- Skydiving
-- Scuba diving
-- People
+- 🐵 Animals
+- 🌍 Nature
+- ✈️ Traveling
+- 🪂 Skydiving
+- 🤿 Scuba diving
+- 👥 People
 
 ## My top movies
 
