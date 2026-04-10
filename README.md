@@ -58,9 +58,9 @@
 
 ## The Three things I value the most to work as a team
 
--
--
--
+- 📢 **Communication:** Clear and honest talk makes everything easier.
+- 🛡️ **Reliability:** Being able to count on each other.
+- 💡 **Mutual Support:** Helping each other grow and solve problems.
 
 ### My favorite GIF 
 
