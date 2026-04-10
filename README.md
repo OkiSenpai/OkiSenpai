@@ -36,9 +36,8 @@
 
 ## Some of my surprising skills xD
 
-- I can play games for 12 hours without break
-
--
+- 🎮 **Endurance Gamer:** I can play games for 12 hours straight without a break.
+- 🧩 **Fast Learner:** Once I get into the flow, I pick up new concepts quickly.
 
 ## My objective during BeCode
 
@@ -50,7 +49,7 @@
 
 ## My fears :
 
-1. to find out that i'm not made for programing
+1. Discovering that I’m not "made" for programming (but I’m here to prove myself wrong!).
 
 ## I'm looking foward to :
 
