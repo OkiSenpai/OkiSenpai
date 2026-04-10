@@ -1,6 +1,5 @@
 # Omer ASLANI
 
-<img src="20231024_130555.jpg" >
 <img src="20231024_130555.jpg" width="300" : 20px; border-radius: 10px;">
 
 ***
